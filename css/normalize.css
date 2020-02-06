@@ -10,9 +10,7 @@
 /* Document
    ========================================================================== */
 
-@font-face { font-family: 'GyeonggiBatang'; src: url('woff/Batang_Bold.woff') }
-@font-face { font-family: 'GyeonggiBatang'; src: url('woff/Batang_Regular.woff') }
-
+@font-face { font-family: 'GyeonggiBatang'; src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_one@1.0/GyeonggiBatang.woff') format('woff'); font-weight: normal; font-style: normal; }
 html {
 
   /*font-family: sans-serif; /* 1 */
